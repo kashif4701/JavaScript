@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    background-color: lightgray;
+    
+}
+.Box{
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+    border: 1px solid Black;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+
+}
